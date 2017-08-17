@@ -1,0 +1,5 @@
+node_modules
+.git
+bin
+dump.rdb
+.DS_Store
